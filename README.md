@@ -1,9 +1,9 @@
-# Modelo-KPIs
-##📊 Impacto de la Implementación de automatización de IA en una Empresa de 200+ Empleados##
+# Modelo-KPIs #
+## 📊 Impacto de la Implementación de automatización de IA en una Empresa de 200+ Empleados ##
 
 Este proyecto analiza el impacto económico, operativo, de adopción y de cumplimiento derivado de la implantación de un sistema de Inteligencia Artificial para soporte interno y automatización de procesos. Incluye cálculos de KPI, modelo de datos, visualizaciones en Power BI y una narrativa ejecutiva orientada a negocio.
 
-#🚀 Objetivos del proyecto#
+# 🚀 Objetivos del proyecto #
 -------------------------
 - Medir el impacto económico directo: ahorro, eficiencia y ROI.
 - Evaluar la mejora operativa generada por la IA.
@@ -12,10 +12,10 @@ Este proyecto analiza el impacto económico, operativo, de adopción y de cumpli
 - Construir un dashboard profesional en Power BI para reporting ejecutivo.
 
 
-#📐 Cálculo de KPI#
+# 📐 Cálculo de KPI #
 -----------------
 
-💰 1. KPI Económicos
+## 💰 1. KPI Económicos ##
 --------------------
 - Ahorro por errores evitados:
 - Ahorro por herramientas eliminadas:
@@ -25,20 +25,20 @@ Este proyecto analiza el impacto económico, operativo, de adopción y de cumpli
 - ROI:
 
 
-⚙️ 2. KPI Operativos
+## ⚙️ 2. KPI Operativos ##
 --------------------
 - Consultas resueltas/mes con IA:
 - Horas ahorradas/mes: 
 - Procesos automatizados: 50 %
 - Tiempo medio por consulta: 5 min
 
-👥 3. KPI de Adopción
+## 👥 3. KPI de Adopción ##
 ---------------------
 - Empleados activos: 200
 - Tasa de adopción: 40 %
 - Consultas por empleado/mes: 20
 
-🛡️ 4. KPI de Riesgo y Cumplimiento
+## 🛡️ 4. KPI de Riesgo y Cumplimiento ##
 -----------------------------------
 - Interacciones auditables: 95 %
 - Incidentes de cumplimiento: 1 / trimestre
@@ -47,7 +47,7 @@ Este proyecto analiza el impacto económico, operativo, de adopción y de cumpli
 - Trazabilidad: 85 %
 
 
-PROXIMAMENTE
+## PROXIMAMENTE ##
 📊 Dashboard en Power BI
 ------------------------
 El informe incluye las siguientes vistas:
