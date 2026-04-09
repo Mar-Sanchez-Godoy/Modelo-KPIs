@@ -60,7 +60,7 @@ README.md
 
 The report includes the following views:
 
-1. Executive View:
+Executive View:
    
 - Total benefit
 - Annual savings
