@@ -154,49 +154,44 @@ Este proyecto analiza el impacto económico, operativo, de adopción y de cumpli
 ### 📁 Estructura del repositorio
 -----------------------------
 /data
-  /raw
-  /processed
-/notebooks
-  01_cleaning.ipynb
-  02_kpi_calculation.ipynb
-  03_visuals_preparation.ipynb
-/dashboard
-  IA_Impact.pbix
-/docs
-  kpi_definitions.md
-  methodology.md
+
 README.md
 
 
 
 ## PROXIMAMENTE ##
+
 📊 Dashboard en Locker Studio Google
 ------------------------
 El informe incluye las siguientes vistas:
 
-1. Vista ejecutiva
+Vista ejecutiva
+
    - Beneficio total
    - Ahorro anual
    - Empleados activos con IA
    - ROI
 
-2. Vista económica
+Vista económica
+
    - Ahorro por eficiencia
    - Ahorro por errores
    - Ahorro por herramientas
    - Cascada de costes
 
-3. Vista operativa
+Vista operativa
+
    - Consultas resueltas con IA
    - Horas ahorradas
    - Tiempo medio por consulta
 
-4. Vista de adopción
+Vista de adopción
+
    - Evolución de usuarios activos
    - Tasa de adopción
    - Uso recurrente
 
-5. Vista de riesgo y cumplimiento
+Vista de riesgo y cumplimiento
    - Sesgos detectados
    - Incidentes
    - Nivel de explicabilidad
