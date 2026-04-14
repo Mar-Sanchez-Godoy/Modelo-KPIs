@@ -82,9 +82,9 @@ The implementation of AI in the company generates:
 - Solid adoption, with 80 active employees
 - Controlled risks, with high traceability and auditability
 
+--
 
-
-##COMING SOON
+### COMING SOON
 
 ### 📊 Dashboard in Google Looker Studio
 
@@ -215,7 +215,7 @@ La implementación de IA en la empresa genera:
 
 ### PROXIMAMENTE
 
-📊 Dashboard en Locker Studio Google
+### 📊 Dashboard en Locker Studio Google
 ------------------------
 El informe incluye las siguientes vistas:
 
