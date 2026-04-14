@@ -9,7 +9,7 @@ This project analyzes the economic, operational, adoption, and compliance impact
 
 KPIs
 <p align="left">
-<img src="Screenshots/KPIs iniciales.png" width="250">
+<img src="Screenshots/KPIs iniciales.png" width="150">
 </p>
 
 RAW DATA
@@ -19,7 +19,7 @@ RAW DATA
 
 Data
 <p align="left">
-<img src="Screenshots/Datos finales.png" width="250">
+<img src="Screenshots/Datos finales.png" width="350">
 </p>
 
 
