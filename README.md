@@ -127,6 +127,25 @@ The implementation of AI in the company generates:
 
 Este proyecto analiza el impacto económico, operativo, de adopción y de cumplimiento derivado de la implantación de un sistema de Inteligencia Artificial para soporte interno y automatización de procesos. Incluye cálculos de KPI, modelo de datos, visualizaciones en Power BI y una narrativa ejecutiva orientada a negocio.
 
+
+## 📸 Visualización previa
+
+KPIs
+<p align="left">
+<img src="Screenshots/KPIs iniciales.png" width="250">
+</p>
+
+Datos en bruto
+<p align="left">
+<img src="Screenshots/Muestra en bruto.png" width="350">
+</p>
+
+Datos
+<p align="left">
+<img src="Screenshots/Datos finales.png" width="450">
+</p>
+
+
  ## 🚀 Objetivos del proyecto
 -------------------------
 - Medir el impacto económico directo: ahorro, eficiencia y ROI.
