@@ -68,9 +68,32 @@ Build a professional dashboard in Google Looker Studio for executive reporting.
 
 ### 📁 Repository Structure
 
-Código
+The project currently contains three main components:
 
-README.md
+1. Data/
+
+Folder containing the dataset used for KPI calculations and dashboard modeling.
+This is the source for all economic, operational, adoption, and compliance metrics.
+
+2. Screenshots/
+
+Folder with all dashboard and data‑model images.
+
+Used inside the README to visually document:
+- Initial KPIs
+- Raw data sample
+- Final processed dataset
+
+3. README.md
+
+The main documentation file (the one you are editing right now).
+
+Contains:
+- Project description
+- Objectives
+- KPI definitions
+- Dashboard preview images
+- Executive narrative
 
 ## 🧠 Conclusions
 
@@ -194,12 +217,35 @@ Datos
 - Explicabilidad: 70 %
 - Trazabilidad: 85 %
 
-### 📁 Estructura del repositorio
+## 📁 Estructura del repositorio
 -----------------------------
-/data
 
-README.md
+## 1. /Data/
 
+Carpeta que contiene los datos del modelo.
+Es el origen de datos para los KPIs, cálculos y visualizaciones.
+
+## 2. /Screenshots/
+
+Carpeta con capturas del dashboard y del proceso.
+
+Contiene imágenes como:
+- KPIs iniciales.png
+- Muestra en bruto.png
+- Datos finales.png
+
+Se usan en el README para documentar el proyecto.
+
+## 3. README.md
+
+Documento principal del repositorio.
+
+Incluye:
+- Descripción del proyecto
+- Objetivos
+- KPIs económicos, operativos, de adopción y compliance
+- Imágenes del dashboard
+- Narrativa ejecutiva
 
 ## 🧠 Conclusiones
 ---------------
