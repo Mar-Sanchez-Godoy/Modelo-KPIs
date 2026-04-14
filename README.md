@@ -4,6 +4,25 @@
 ## 📊 Impact of Implementing AI Automation in a 200+ Employee Company
 This project analyzes the economic, operational, adoption, and compliance impact derived from implementing an Artificial Intelligence system for internal support and process automation. It includes KPI calculations, a data model, Power BI visualizations, and an executive business-oriented narrative.
 
+
+## 📸 Dashboard Preview
+
+KPIs
+<p align="left">
+<img src="Screenshots/KPIs iniciales.png" width="250">
+</p>
+
+RAW DATA
+<p align="left">
+<img src="Screenshots/Muestra en bruto.png" width="250">
+</p>
+
+Data
+<p align="left">
+<img src="Screenshots/Datos finales.png" width="250">
+</p>
+
+
 ## 🚀 Project Objectives
 Measure direct economic impact: savings, efficiency, and ROI.
 
