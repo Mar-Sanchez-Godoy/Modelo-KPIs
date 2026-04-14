@@ -72,6 +72,17 @@ Código
 
 README.md
 
+## 🧠 Conclusions
+
+The implementation of AI in the company generates:
+
+- Significant annual savings
+- ROI of 1.17, justifying the investment
+- Reduced operational workload, with hours saved per month
+- Solid adoption, with 80 active employees
+- Controlled risks, with high traceability and auditability
+
+
 
 ##COMING SOON
 
@@ -110,15 +121,9 @@ Adoption rate:
 - Explainability level
 - Auditable logs
 
-### 🧠 Conclusions
+--
 
-The implementation of AI in the company generates:
-
-- Significant annual savings
-- ROI of 1.17, justifying the investment
-- Reduced operational workload, with hours saved per month
-- Solid adoption, with 80 active employees
-- Controlled risks, with high traceability and auditability
+# CASTELLANO
 
 
 # Modelo-KPIs 
@@ -196,8 +201,19 @@ Datos
 README.md
 
 
+## 🧠 Conclusiones
+---------------
+La implementación de IA en la empresa genera:
 
-## PROXIMAMENTE ##
+- Ahorros anuales significativos 
+- ROI del 1.17, justificando la inversión.
+- Reducción de carga operativa, con  horas ahorradas al mes.
+- Adopción sólida, con 80 empleados activos.
+- Riesgos controlados, con alta trazabilidad y auditabilidad.
+
+  
+
+### PROXIMAMENTE
 
 📊 Dashboard en Locker Studio Google
 ------------------------
@@ -236,14 +252,5 @@ Vista de riesgo y cumplimiento
    - Logs auditables
 
 
-### 🧠 Conclusiones
----------------
-La implementación de IA en la empresa genera:
-
-- Ahorros anuales significativos 
-- ROI del 1.17, justificando la inversión.
-- Reducción de carga operativa, con  horas ahorradas al mes.
-- Adopción sólida, con 80 empleados activos.
-- Riesgos controlados, con alta trazabilidad y auditabilidad.
 
 
