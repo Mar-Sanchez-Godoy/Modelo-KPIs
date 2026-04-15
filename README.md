@@ -19,7 +19,7 @@ Data
 
 RAW DATA
 <p align="left">
-<img src="Screenshots/Muestra en bruto.png" width="350">
+<img src="Screenshots/Muestra en bruto.png" width="450">
 </p>
 
 ## 📘 Project Objectives
