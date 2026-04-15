@@ -5,7 +5,7 @@
 This project analyzes the economic, operational, adoption, and compliance impact derived from implementing an Artificial Intelligence system for internal support and process automation. It includes KPI calculations, a data model, Power BI visualizations, and an executive business-oriented narrative.
 
 
-## Dashboard Preview
+##  📊 Dashboard Preview
 
 KPIs
 <p align="left">
