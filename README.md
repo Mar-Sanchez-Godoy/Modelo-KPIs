@@ -95,7 +95,7 @@ Contains:
 - Dashboard preview images
 - Executive narrative
 
-## Conclusions
+## 📌 Conclusions
 
 The implementation of AI in the company generates:
 
@@ -247,7 +247,7 @@ Incluye:
 - Imágenes del dashboard
 - Narrativa ejecutiva
 
-## Conclusiones
+## 📌 Conclusiones
 ---------------
 La implementación de IA en la empresa genera:
 
