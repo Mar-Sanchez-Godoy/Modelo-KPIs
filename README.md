@@ -9,7 +9,7 @@ This project analyzes the economic, operational, adoption, and compliance impact
 
 KPIs
 <p align="left">
-<img src="Screenshots/Resultados.png" width="250">
+<img src="Screenshots/Resultados.png" width="450">
 </p>
 
 Data
