@@ -9,19 +9,18 @@ This project analyzes the economic, operational, adoption, and compliance impact
 
 KPIs
 <p align="left">
-<img src="Screenshots/KPIs iniciales.png" width="250">
+<img src="Screenshots/Resultados.png" width="250">
+</p>
+
+Data
+<p align="left">
+<img src="Screenshots/Datos utilizados.png" width="450">
 </p>
 
 RAW DATA
 <p align="left">
 <img src="Screenshots/Muestra en bruto.png" width="350">
 </p>
-
-Data
-<p align="left">
-<img src="Screenshots/Datos finales.png" width="450">
-</p>
-
 
 ## 📘 Project Objectives
 Measure direct economic impact: savings, efficiency, and ROI.
