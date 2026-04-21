@@ -1,0 +1,100 @@
+Económicos ,Datos,,
+ROI ,"0,17",,
+Coste total,20384,,
+Ahorro anual,23920,,"ROI 17% — por cada 1 € invertido, recupera 0,17 €."
+Beneficio total,3536,,
+,,,
+Operativos  / año,Datos operativos,,
+Horas ahorradas,560,,
+Nº consultas sin errores con IA,7680,,
+Consultas con IA,9600,,
+Nº de errores evitados con IA,128,,
+,,,
+Adopción ,Datos adopcion,,
+Empleados activos,80,,
+Tasa adopción (%),40,,
+Uso recurrente (usuarios ≥ X consultas/mes),20,,
+Incidentes de cumplimiento / año,192,,
+,,,
+Riesgo y cumplimiento,Datos riesgo,,
+Cumplimiento de políticas internas (%),98,,
+Bias detectado / año,144,,
+Nivel de explicabilidad (score o %),70,,
+Interacciones auditables /año,98,,
+,,,
+,,,
+,,,
+,,,
+Input,Valores,Descripción,Concepto claro
+Coste herramientas previas (€),10000,Coste anual de herramientas eliminadas,Ahorro generado por retirar software o servicios que dejan de ser necesarios gracias a la implementación de la IA
+Coste por error actual (€),30,Coste de corregir un error interno,"Coste de resolver un fallo generado en un proceso manual: tiempo del empleado, impacto operativo y posibles retrasos"
+Empleados totales,200,Número de empleados total de la empresa,
+Coste hora (€),18,Promedio de coste laboral por hora por empleado,Promedio de coste por hora de un empleado con Salario bruto anual ~31.500 € / 1.750 h
+Tiempo promedio de consultas / mes,5,Promedio de minutos de un empleado por consulta,Promedio de un empleado tarda en atender o resolver una consulta sin ayuda de IA
+Nº consultas por empleado / mes,20,Consultas por empleado por mes,Promedio de consultas que realiza cada empleado en un mes
+,,,
+Tasa de error manual / año,2,Errores en consultas al año por empleado,Porcentaje de consultas que un empleado realiza de forma incorrecta en un año respecto al total de actividades que ejecuta
+Media de horas en consultas / mes,2,Promedio de horas dedicados a resolución de consultas,Promedio de minutos empleados en realizar consultas de forma mensual por cada empleado
+Tiempo total de consultas / mes,333,Tiempo total en horas mensual empleado en consultas,
+Coste hora de consultas / mes,6000,Coste mensual de tiempo en consultas,
+,,,
+Tasa de adopción de IA (%),40,Grado de adopción interna en porcentaje,Porcentaje de personas que permanentemente utilizan IA
+Procesos que pasan por la IA (%),50,Grado de automatización real en porcentaje,Porcentaje de procesos de los empleados que adoptaron consultas gestionados por la IA
+Tasa de error reducido por IA (%),80,Porcentaje de errores evitados al año utilizando IA,Porcentaje de errores que dejan de producirse gracias al uso de la IA
+Coste anual sistema IA (€),150,Coste anual de licencias por empleado,
+Coste de implementación IA (€),6000,Coste inicial del sistema,"Inversión en la solución de IA, incluyendo instalación, configuración, formación y cualquier gasto asociado al despliegue inicial"
+Coste operacion IA (€),2000,Coste por gestión y mantenimiento,"Importe por la gestión del sistema de IA, como supervisión, soporte, ajustes o administración"
+Coste de consulta resuelto con IA (€),0,Coste por consulta procesado con IA,Coste medio asociado a que una consulta sea atendida mediante la solución de IA
+,,,
+Empleados que usan IA,80,Número de empleados que adoptan IA,
+Coste total anual sistema IA (€),12000,Coste anual de licencias total,"Importe anual de mantener activa la solución de IA, cubriendo licencias, mantenimiento, soporte técnico y actualizaciones"
+Nº consultas por empleado usando IA / mes,10,Consultas resueltas a través de la IA,
+Nº consultas total usando IA / mes,800,Número de consultas total de empleados que adoptan IA,
+Nº consultas con errores evitados / año,2,Consultas resueltas por empleado sin errores utilizando IA,
+,,,
+Tasa de reducción de tiempo usando IA (%),70,Porcentaje de tiempo reducido por consulta utilizando la IA,Mide cuánto se reduce el tiempo necesario para resolver una consulta cuando interviene la IA
+Tiempo medio de respuesta de IA,1,Minutos en promedio en analizar y responder consultas la IA,
+Tiempo reducción de consultas usando IA,4,Reducción promedio de minutos de un empleado por consulta,Disminución media del tiempo que un empleado necesita para resolver una consulta cuando utiliza la IA
+Tiempo total de respuestas automatizadas / mes,6,Tiempo en minutos de respuesta por automatización,
+Tiempo medio ahorrado por automatizaciones / mes,44,Tiempo promedio en minutos ahorrado por automatización,
+,,,
+Trazabilidad de respuestas (%),85,Datos rastreables cada interacción generada por la IA,"Porcentaje de datos rastreables generados por la IA. Clave para auditorías, calidad y cumplimiento"
+Explicabilidad (%),70,Justificación de la IA de una respuesta,Porcentaje de justificación de una respuesta. Aumenta la confianza del usuario y reduce riesgos en sectores regulados
+Bias detectado o sesgo / mes,12,Presencia de sesgos en las respuestas de la IA,"Número de veces que el sistema genera respuestas que muestran discriminación, parcialidad o patrones no deseados"
+Incidentes de cumplimiento / mes,16,"IA incumple políticas internas, normativas o requisitos legales",Registra cualquier interacción que pueda suponer un riesgo legal o de compliance. Es un indicador crítico para empresas reguladas
+Logs auditables (%),95,Disponibilidad de registros completos y verificables,"Porcentaje  de datos de los que el sistema guarda un historial claro, exportable y revisable de cada acción."
+,,,
+,,,
+,,,
+,,,
+,,,
+Concepto,Fórmula,,
+Ahorro anual por eficiencia,10080,,
+Ahorro de errores operativos,3840,,
+Ahorro de herramientas eliminadas,10000,,
+Beneficio_total,3536,,
+Coste_total sistema IA (1er año),20384,,
+Coste total sistema IA (2do año),14384,,
+ROI (1er año),"0,17",,
+ROI (2do año),"0,25",,
+"ROI 17% — por cada 1 € invertido, recupera 0,17 €.",,,
+,,,
+,,,
+,,,
+Concepto,Fórmula,,
+Nº de empleados que adoptan IA,80,,
+Nº de consultas actuales / año,19200,,
+Consultas con IA / año,9600,,
+Consultas resueltas sin errores con IA / año,7680,,
+Horas actuales de consulta / año,800,,
+Horas ahorradas por consultas / año ,560,,
+Errores totales por año,160,,
+Errores evitados al usar IA,128,,
+,,,
+,,,
+Riesgo y cumplimiento,Fórmula,,
+Interacciones auditables,9120,,
+Incidentes de cumplimiento / año,192,,
+Bias detectado mensual,144,,
+Nivel de explicabilidad (%),70,,
+Cumplimiento de políticas internas (%),98,,
