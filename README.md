@@ -22,6 +22,11 @@ RAW DATA
 <img src="Screenshots/Muestra en bruto.png" width="450">
 </p>
 
+Locker Studio
+<p align="left">
+<img src="Screenshots/KPIs - Locker Studio.png" width="450">
+</p>
+
 ## 📘 Project Objectives
 Measure direct economic impact: savings, efficiency, and ROI.
 
